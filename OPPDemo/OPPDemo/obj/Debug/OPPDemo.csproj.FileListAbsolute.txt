@@ -1,0 +1,7 @@
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter8-Repo\OPPDemo\OPPDemo\bin\Debug\OPPDemo.exe.config
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter8-Repo\OPPDemo\OPPDemo\bin\Debug\OPPDemo.exe
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter8-Repo\OPPDemo\OPPDemo\bin\Debug\OPPDemo.pdb
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter8-Repo\OPPDemo\OPPDemo\obj\Debug\OPPDemo.csprojAssemblyReference.cache
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter8-Repo\OPPDemo\OPPDemo\obj\Debug\OPPDemo.csproj.CoreCompileInputs.cache
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter8-Repo\OPPDemo\OPPDemo\obj\Debug\OPPDemo.exe
+D:\Corporate\Vinsys\JK Tech\C#\Demos\Chapter8-Repo\OPPDemo\OPPDemo\obj\Debug\OPPDemo.pdb
