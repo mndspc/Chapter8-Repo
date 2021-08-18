@@ -8,9 +8,9 @@ namespace OPPDemo
         static void Main()
         {
             // To invoke functions using Interface object
-            IWifi iwifi = new NOKIALUMIA();
-            Console.WriteLine(iwifi.StartWifi());
-            Console.WriteLine(iwifi.StopWifi());
+            //IWifi iwifi = new NOKIALUMIA();
+            //Console.WriteLine(iwifi.StartWifi());
+            //Console.WriteLine(iwifi.StopWifi());
             // To Invoke functions from Derive class
             NOKIALUMIA nokiaLumia = new NOKIALUMIA();
             Console.WriteLine( nokiaLumia.StartWifi());

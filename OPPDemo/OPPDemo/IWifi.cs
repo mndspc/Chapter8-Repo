@@ -7,7 +7,6 @@ namespace OPPDemo
     {
       string StartWifi();
       string StopWifi();
-
       string TroubleShoot();
     }
 }

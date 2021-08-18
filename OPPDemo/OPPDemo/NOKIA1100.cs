@@ -9,7 +9,8 @@ namespace OPPDemo
         {
             Console.WriteLine("Default constructor of NOKIA1100");
         }
-        public NOKIA1100(int modelNo, string modelName, int yearOfManu, int screenSize, int internalStorage, int ram) : base(modelNo, modelName, yearOfManu, screenSize, internalStorage, ram)
+        public NOKIA1100(int modelNo, string modelName, int yearOfManu, int screenSize, int internalStorage, int ram) 
+            : base(modelNo, modelName, yearOfManu, screenSize, internalStorage, ram)
         {
 
         }

@@ -1,20 +1,17 @@
 ﻿using System;
 namespace OPPDemo
 {
-    class Employee
-    {
-      
+   public class Employee
+    {   
         public int EmpCode { get; set; }
         public string  EmpName { get; set; }
         public string Email { get; set; }
-
         public Employee(int empCode,string empName,string email)
         {
             this.EmpCode = empCode;
             this.EmpName = empName;
             this.Email = email;
         }
-
         public override string ToString()
         {
             return string.Format("Code={0} Name={1} Email={2}", EmpCode, EmpName, Email);
